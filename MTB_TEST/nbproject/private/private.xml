@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/View/Login_Employee.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Model/DBSearchMovie.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Controller/PaymentController.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/View/Dashboard_Main.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Model/DeleteMovieRecord.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/View/Add_Customer_Admin.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Model/DBPwordSearch.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Model/DBSearchReservation.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Model/AddCustRecord.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Controller/CustomerRegisterController.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Model/AddSeatReserve.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Controller/SeatReserve.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/View/Customer_Forgot_Pword.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/View/Seat_Reserving_Admin.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Model/DbCustSearch.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/View/Login_Customer.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/View/View_Payment.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/View/Add_Customer_Cus.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Controller/CustomerLoginController.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Model/DeleteReservationRecord.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/View/Loading.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Controller/LoginController.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Model/DeleteCustomer.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Controller/AddMovieController.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/View/Payment_Admin.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Pictures/login%20(1).png</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/View/Payment_Customer.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Controller/Update_Controller.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Controller/MovieDeleteController.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Model/DBUpdateRecord.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/View/View_Movie.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Model/DbConnection.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/View/View_Reservation.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Controller/EmployeeLoginController.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/View/Dashboard_Employee.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Model/DbAdminSearch.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Model/AddFilmRecord.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Model/DBReservation.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Model/DBPaymentRecord.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/View/Login_Admin.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/View/Add_Movie.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/View/Seat_Reserving_Customer.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Model/DBSearchPayment.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/View/Welcome.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Controller/Delete_Customer_Controller.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/Controller/Delete_Reservation.java</file>
+            <file>file:/E:/Java%20Project/MTB_TEST/src/View/View_Customers.java</file>
+        </group>
+    </open-files>
+</project-private>
